@@ -1,0 +1,10 @@
+miu\edu\productservice\service\ProductService.class
+miu\edu\productservice\controller\ProductController.class
+miu\edu\productservice\dtos\ProductRequest$ProductRequestBuilder.class
+miu\edu\productservice\model\Product.class
+miu\edu\productservice\ProductServiceApplication.class
+miu\edu\productservice\dtos\ProductResponse$ProductResponseBuilder.class
+miu\edu\productservice\dtos\ProductRequest.class
+miu\edu\productservice\dtos\ProductResponse.class
+miu\edu\productservice\model\Product$ProductBuilder.class
+miu\edu\productservice\repository\ProductRepository.class
